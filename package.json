@@ -1,0 +1,20 @@
+{
+  "name": "phase1_projects",
+  "version": "1.0.0",
+  "description": "Creating projects in HTML/CSS/JS, REACT, REDUX, POLYMER and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyrone-Cartwright/phase1_projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyrone-Cartwright/phase1_projects/issues"
+  },
+  "homepage": "https://github.com/Tyrone-Cartwright/phase1_projects#readme"
+}
